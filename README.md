@@ -1,9 +1,9 @@
 # primertrabajo
 
 Integrantes:
-  Diego Huerta
-  Miguel San Martin
-  Francisco Zambrano
+  - Diego Huerta
+  - Miguel San Martin
+  - Francisco Zambrano
   
 Profesor:
   Giovanni Valdivia
